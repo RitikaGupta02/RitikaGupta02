@@ -1,15 +1,21 @@
+![MasterHead](https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966)
+
+
 <h1 align="center">Hi 👋, I'm Ritika Kumari Gupta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1718236800&semt=ais_user">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikagupta02&label=Profile%20views&color=0e75b6&style=flat" alt="ritikagupta02" /> </p>
 
+
+
+- 🌱 I’m currently learning React JS , Node JS
+
+- 💬 Ask me about HTML,CSS,JAVA
+
+- 📫 How to reach me gritika8280@gmail.com
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikagupta02" alt="ritikagupta02" /></a> </p>
-
-- 🌱 I’m currently learning **React JS , Node JS**
-
-- 💬 Ask me about **HTML,CSS,JAVA**
-
-- 📫 How to reach me **gritika8280@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
